@@ -6,6 +6,6 @@ public class Spruce{
         System.out.println(" *******");
         System.out.println("*********");
         System.out.println("    *");
-        
+        //prints a christmas tree on the CLI
     }
 }
