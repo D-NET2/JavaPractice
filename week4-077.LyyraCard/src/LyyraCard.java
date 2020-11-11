@@ -48,7 +48,7 @@ public class LyyraCard {
             //ignore
             
         }
-        //else ignore and dont change balncae
+        //else ignore and dont change balance
     }
     
     
